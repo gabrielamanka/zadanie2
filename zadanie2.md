@@ -21,3 +21,6 @@ e)
 
 ![image](https://github.com/gabrielamanka/zadanie2/assets/133596439/507b3d02-e687-4b40-ae98-1703b45e5299)
 
+Źródła:
+https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
+https://docs.snyk.io/integrations/ci-cd-integrations/github-actions-integration/snyk-docker-action
