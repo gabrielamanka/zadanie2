@@ -23,4 +23,5 @@ e)
 
 Źródła:
 https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
+
 https://docs.snyk.io/integrations/ci-cd-integrations/github-actions-integration/snyk-docker-action
